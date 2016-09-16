@@ -1,6 +1,4 @@
-# Utah JS Conf 2016
-
-### Don't Follow Decoys - Aaron Frost
+### Don't Follow Decoys - [Aaron Frost](https://twitter.com/js_dev)
 
 ##### Decoys are:
 - thing-like object, but not a thing
@@ -56,46 +54,3 @@ You think that's what is expected of you, but it isnt.
 **Ask For Explanations To Help You Understand**
 
 **Raise Concerns With Management**
-
-### Pop Culture, the Pendulum, and Progress in Software - Jamison Dance
-How does software progress?
-
-Two schools of thought Software is art; and software is a sience.
-
-How does science progress?
-
-Paradigms, i.e. OOP -> find the anomalies -> exploration the anomalies ->  Then a new paradigm.
-
-Is software science? Science progresses.
-
-"The web was done by amatures"
-
-Progress?
-
-There are a lot of old good ideas that are being reinvented, are we progressing?
-
-How does art progress?
-Django Reinhart, jazz musician 1930's. Jimi Hendrix 1960's. Stevie Vaughn nowadays.
-
-Who is better? There are technical differences, not better, it is art, art is subjective.
-
-In art there is no better or worse, there is different.
-
-Is software art?
-
-Programming is a flat circle. Things repeat, microsoft dev in the 90's is very similar to redux now.
-
-Pendulums:
-Frameworks -> Libraries
-Monolith -> Micro Services
-Static -> Dynamic (type safety)
-Thin Client -> Thick Client
-
-Thin Client - Logic happens on the server (server side rendering)
-Thick Client - Logic happens on the client
-
-Programming is not art but **make art, do science**. Look for the pendulum.
-
-Find **old good** ideas.
-
-### Into to Code Performance for the JS Beginner - Gary Ray
